@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "Test-Time Compute Routing",
+      "category": "methodology",
+      "summary": "Treat extra inference-time search as a billed routing layer rather than a one-off decoding trick.",
+      "why_now": "Multiple labs shipped product surfaces that charge for longer thinking traces.",
+      "aliases": ["TTC routing", "inference-time search product"],
+      "arxiv_ids": ["2506.11200"],
+      "scores": {
+        "scalability": 8,
+        "accessibility": 6,
+        "growth": 9,
+        "adaptability": 8
+      },
+      "sources": [
+        { "label": "arXiv", "url": "https://arxiv.org/abs/2506.11200" }
+      ]
+    },
+    {
+      "title": "Agentic Skill Marketplaces",
+      "category": "business-model",
+      "summary": "Portable SKILL.md packs with cron blueprints sold or shared as installable agent capabilities.",
+      "why_now": "Hermes, Claude, and others standardized the skill folder, so distribution finally has a socket.",
+      "aliases": ["skills hub", "SKILL.md marketplace"],
+      "scores": {
+        "scalability": 7,
+        "accessibility": 8,
+        "growth": 8,
+        "adaptability": 7
+      },
+      "sources": [
+        {
+          "label": "Hermes skills",
+          "url": "https://hermes-agent.nousresearch.com/docs/user-guide/features/skills"
+        }
+      ]
+    }
+  ]
+}

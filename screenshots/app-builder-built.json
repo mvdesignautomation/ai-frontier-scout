@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Frontier Scout",
+      "hasCanvas": false,
+      "bodyTextLen": 7747,
+      "bodyTextHash": "4d8f899e557f9ccc31903940b69c87189f7e1b0ffcc4e9dfb3b86549778cffb5",
+      "bodyTextPrefix": "Frontier Scout Brief Install Pack Download HERMES AGENT SKILL Em",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Frontier Scout",
+      "hasCanvas": false,
+      "bodyTextLen": 7728,
+      "bodyTextHash": "245cbc0991bae9a6acfc32067c823fc941ac220d9c7c76b83396ddaa77be8ab4",
+      "bodyTextPrefix": "Frontier Scout Download HERMES AGENT SKILL Emerging AI, scored —",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

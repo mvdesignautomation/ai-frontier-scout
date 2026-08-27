@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "name": "ai-frontier-scout",
+  "description": "Scout emerging AI tech and rate scale, access, growth.",
+  "groupings": [
+    {
+      "title": "Research",
+      "skills": ["ai-frontier-scout"]
+    }
+  ]
+}
